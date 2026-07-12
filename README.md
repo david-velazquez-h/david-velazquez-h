@@ -30,7 +30,7 @@
 
 <br/>
 
-<h2 id="about">🧭 About Me</h2>
+<h2 id="about">About Me</h2>
 
 <table align="center">
 <tr>
@@ -81,31 +81,31 @@ const david = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 
-<h2 id="focus">🔭 Current Focus</h2>
+<h2 id="focus">Current Focus</h2>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Building Novex
+### Building Novex
 A marketplace connecting people with **trusted computer repair technicians** — my first real product.
 
-### 📱 Android Development
+### Android Development
 Sharpening my skills with **Kotlin** and **Jetpack Compose**.
 
-### 🤖 Artificial Intelligence
+### Artificial Intelligence
 Diving into **AI, Machine Learning and Deep Learning** through my engineering degree.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Algorithms & Data Structures
+### Algorithms & Data Structures
 Solving problems consistently to strengthen my **problem-solving mindset**.
 
-### 🌎 Open Source
+### Open Source
 Preparing to make my **first meaningful contributions**.
 
-### 💻 Portfolio
+### Portfolio
 Crafting a **professional software engineering portfolio**, project by project.
 
 </td>
@@ -114,7 +114,7 @@ Crafting a **professional software engineering portfolio**, project by project.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 
-<h2 id="stack">🛠️ Tech Stack</h2>
+<h2 id="stack">Tech Stack</h2>
 
 <div align="center">
 
@@ -149,7 +149,7 @@ Crafting a **professional software engineering portfolio**, project by project.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 
-<h2 align="center">📖 What I'm Learning</h2>
+<h2 align="center">What I'm Learning</h2>
 
 <div align="center">
 
@@ -158,7 +158,7 @@ Crafting a **professional software engineering portfolio**, project by project.
 </div>
 
 
-<h2 align="center">🧩 Development Philosophy</h2>
+<h2 align="center">Development Philosophy</h2>
 
 <div align="center">
 
@@ -169,7 +169,7 @@ I'd rather build something small and well-engineered than something big and frag
 </div>
 
 
-<h2 align="center">⭐ Favorite Technologies</h2>
+<h2 align="center">Favorite Technologies</h2>
 
 <div align="center">
 
@@ -181,7 +181,7 @@ I'd rather build something small and well-engineered than something big and frag
 </div>
 
 
-<h2 align="center">🎯 Goals for 2026</h2>
+<h2 align="center">Goals for 2026</h2>
 
 <table align="center" width="90%">
 <tr><td>
@@ -196,7 +196,7 @@ I'd rather build something small and well-engineered than something big and frag
 </table>
 
 
-<h2 align="center">🏛️ Goals for University</h2>
+<h2 align="center">Goals for University</h2>
 
 <table align="center" width="90%">
 <tr><td>
@@ -212,7 +212,7 @@ I'd rather build something small and well-engineered than something big and frag
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 
-<h2 id="stats" align="center">📊 GitHub Stats</h2>
+<h2 id="stats" align="center">GitHub Stats</h2>
 
 <div align="center">
 
@@ -231,14 +231,14 @@ I'd rather build something small and well-engineered than something big and frag
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 
-<h2 id="contact" align="center">📬 Let's Connect</h2>
+<h2 id="contact" align="center">Let's Connect</h2>
 
 <div align="center">
 
 <a href="https://github.com/david-velazquez-h/"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=E63946"/></a>
 <a href="https://www.linkedin.com/in/david-velazquez-b7b180227/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E63946"/></a>
 <a href="https://www.instagram.com/davi_x82/"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E63946"/></a>
-<a href="davher108@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E63946"/></a>
+<a href="mailto:davher108@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E63946"/></a>
 
 <br/><br/>
 
