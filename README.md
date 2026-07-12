@@ -149,77 +149,6 @@ Crafting a **professional software engineering portfolio**, project by project.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 
-<h2 id="projects">📂 Featured Projects</h2>
-
-<table align="center" width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 🚀 Novex
-Marketplace connecting users with trusted computer repair technicians.
-
-`Kotlin` `Firebase` `Android`
-
-[View Repository →](#)
-
-</td>
-<td width="33%" valign="top">
-
-### 📱 NexBlue
-Android application focused on clean architecture and modern UI.
-
-`Kotlin` `Jetpack Compose`
-
-[View Repository →](#)
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 AI Playground
-Experiments and mini-projects while learning AI & Machine Learning.
-
-`Python` `TensorFlow` `PyTorch`
-
-[View Repository →](#)
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### 🧠 Algorithms
-Solutions and notes from algorithmic problem solving practice.
-
-`C++` `Python` `DSA`
-
-[View Repository →](#)
-
-</td>
-<td width="33%" valign="top">
-
-### 🌐 Portfolio Website
-My personal software engineering portfolio and case studies.
-
-`HTML` `CSS` `JavaScript`
-
-[View Repository →](#)
-
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ Future Projects
-More projects coming as I grow through my engineering degree.
-
-`Coming Soon`
-
-[Stay tuned →](#)
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
-
 <h2 align="center">📖 What I'm Learning</h2>
 
 <div align="center">
@@ -228,21 +157,6 @@ More projects coming as I grow through my engineering degree.
 
 </div>
 
-<h2 align="center">🗺️ Current Roadmap</h2>
-
-<table align="center" width="90%">
-<tr><td>
-
-- [x] Get accepted into AI Engineering @ ESCOM (IPN)
-- [x] Start building Novex
-- [ ] Strengthen Android development with Jetpack Compose
-- [ ] Complete first Machine Learning fundamentals course
-- [ ] Make first Open Source contribution
-- [ ] Publish professional portfolio website
-- [ ] Solve algorithmic problems consistently every week
-
-</td></tr>
-</table>
 
 <h2 align="center">🧩 Development Philosophy</h2>
 
@@ -292,17 +206,6 @@ I'd rather build something small and well-engineered than something big and frag
 
 </td></tr>
 </table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
-
-<h2 align="center">💬 Quote</h2>
-
-<div align="center">
-
-### *"I don't build projects to fill my GitHub.*
-### *I build projects to learn, improve and solve real-world problems."*
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 
