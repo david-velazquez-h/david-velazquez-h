@@ -213,16 +213,16 @@ I'd rather build something small and well-engineered than something big and frag
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=davidvelazquez&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=E63946&icon_color=E63946&text_color=FFFFFF&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=david-velazquez-h&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=E63946&icon_color=E63946&text_color=FFFFFF&count_private=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidvelazquez&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=E63946&text_color=FFFFFF" width="38%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=davidvelazquez&theme=radical&hide_border=true&background=0D0D0D&ring=E63946&fire=E63946&currStreakLabel=E63946" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=david-velazquez-h&theme=radical&hide_border=true&background=0D0D0D&ring=E63946&fire=E63946&currStreakLabel=E63946" width="65%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davidvelazquez&theme=redical&hide_border=true&bg_color=0D0D0D&color=E63946&line=E63946&point=FFFFFF" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=david-velazquez-h&theme=redical&hide_border=true&bg_color=0D0D0D&color=E63946&line=E63946&point=FFFFFF" width="90%"/>
 
 </div>
 
