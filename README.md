@@ -69,10 +69,10 @@ const david = {
 
 **Quick facts**
 
-🎓 AI Engineering @ ESCOM (IPN)
-📍 Mexico City, Mexico
-🧩 Problem-solver at heart
-🚀 Aspiring founder
+🎓 AI Engineering @ ESCOM (IPN)  
+📍 Mexico City, Mexico  
+🧩 Problem-solver at heart  
+🚀 Aspiring founder  
 🌱 Always learning, always shipping
 
 </td>
@@ -87,25 +87,25 @@ const david = {
 <tr>
 <td width="50%" valign="top">
 
-### Building Novex
+### 🚀 Building Novex
 A marketplace connecting people with **trusted computer repair technicians** — my first real product.
 
-### Android Development
+### 📱 Android Development
 Sharpening my skills with **Kotlin** and **Jetpack Compose**.
 
-### Artificial Intelligence
+### 🤖 Artificial Intelligence
 Diving into **AI, Machine Learning and Deep Learning** through my engineering degree.
 
 </td>
 <td width="50%" valign="top">
 
-### Algorithms & Data Structures
+### 🧠 Algorithms & Data Structures
 Solving problems consistently to strengthen my **problem-solving mindset**.
 
-### Open Source
+### 🌎 Open Source
 Preparing to make my **first meaningful contributions**.
 
-### Portfolio
+### 💻 Portfolio
 Crafting a **professional software engineering portfolio**, project by project.
 
 </td>
