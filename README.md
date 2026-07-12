@@ -168,6 +168,7 @@ I'd rather build something small and well-engineered than something big and frag
 
 </div>
 
+
 <h2 align="center">⭐ Favorite Technologies</h2>
 
 <div align="center">
@@ -178,6 +179,7 @@ I'd rather build something small and well-engineered than something big and frag
 <img src="https://img.shields.io/badge/Firebase-E63946?style=flat-square&logo=firebase&logoColor=white"/>
 
 </div>
+
 
 <h2 align="center">🎯 Goals for 2026</h2>
 
@@ -192,6 +194,7 @@ I'd rather build something small and well-engineered than something big and frag
 
 </td></tr>
 </table>
+
 
 <h2 align="center">🏛️ Goals for University</h2>
 
@@ -232,11 +235,10 @@ I'd rather build something small and well-engineered than something big and frag
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=E63946"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E63946"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E63946"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=googlechrome&logoColor=E63946"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E63946"/></a>
+<a href="https://github.com/david-velazquez-h/"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=E63946"/></a>
+<a href="https://www.linkedin.com/in/david-velazquez-b7b180227/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E63946"/></a>
+<a href="https://www.instagram.com/davi_x82/"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E63946"/></a>
+<a href="davher108@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E63946"/></a>
 
 <br/><br/>
 
