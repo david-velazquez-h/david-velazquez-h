@@ -64,9 +64,6 @@ const david = {
 </td>
 <td width="40%" valign="top">
 
-> *"I don't build projects to fill my GitHub.*
-> *I build projects to learn, improve, and solve real-world problems."*
-
 **Quick facts**
 
 🎓 AI Engineering @ ESCOM (IPN)  
